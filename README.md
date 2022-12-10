@@ -91,7 +91,7 @@
 
 <p/>
 
-<h3 align="center">Database & Hosting:</h3>
+<!-- <h3 align="center">Database & Hosting:</h3>
 
 <p>
 <a href="">
@@ -114,7 +114,7 @@
     <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="">
   </a>
     &emsp;
-<p/>
+<p/> -->
 <h3 align="center">Tools & Software:</h3>
 <p>
 <a href="">
@@ -153,19 +153,6 @@
 ---
 
 
-
-<!--START_SECTION:waka-->
-
-```text
-JavaScript   8 hrs 13 mins   ██████████████████████▒░░   89.67 %
-Java         22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
-CSS          13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
-Markdown     12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
-HTML         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-```
-
-<!--END_SECTION:waka-->
 
 
 ---
